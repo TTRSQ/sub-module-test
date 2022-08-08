@@ -1,3 +1,6 @@
 [submodule "pub"]
 	path = pub
 	url = git@github.com:TTRSQ/tweetFunnel.git
+[submodule "pri"]
+	path = pri
+	url = git@github.com:TTRSQ/esm.git
